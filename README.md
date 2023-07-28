@@ -1,2 +1,2 @@
 # Limpeza_de_dados_ceaps2017
-Limpeza dos dados do Portal da Transparência referente aos gastos realizados no ano de 2017
+Limpeza dos dados abertos do CEAPS (Cota para Exercício da Atividade Parlamentar dos Senadores) do ano de 2017
